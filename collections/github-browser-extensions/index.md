@@ -29,6 +29,7 @@ items:
  - rgehan/octolenses
  - xxhomey19/github-file-icon
  - StylishThemes/GitHub-Dark
+ - nimatra/nimGit
 display_name: GitHub Browser Extensions
 created_by: leereilly
 ---
